@@ -1,0 +1,5 @@
+Number formats:
+Deximal : 1231231
+Octa : 01612312 (preceded by 0, 0-7 accepted)
+Hexa: 0xABCDEF1234 (preceded by 0x, letters A-F accepted)
+Binary: 0b010101 (preceded by 0b, 0-1 accepted)
